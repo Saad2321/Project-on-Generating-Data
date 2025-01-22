@@ -5,4 +5,3 @@
 ### Objective of the project
 # Data Generation
 # Data Visualization
-# Project  Workflow
